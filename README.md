@@ -12,7 +12,7 @@ User Screen is a Flutter application that showcases a user profile screen with v
 - Logout button
 ## Screenshots
 
-![User Screen](![image](https://github.com/MuhammadAmeen01/User-Screen-in-Flutter/assets/68742018/66a65ea8-7881-4861-9443-631f96b4a61f))
+![User Screen](![image](https://github.com/MuhammadAmeen01/User-Screen-in-Flutter/assets/68742018/66a65ea8-7881-4861-9443-631f96b4a61f/1.png))
 
 ## Getting Started
 
