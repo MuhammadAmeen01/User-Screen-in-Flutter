@@ -38,12 +38,12 @@ class _UserScreenState extends State<UserScreen> {
             Column(
               children: [
                 Text(
-                  'John Doe',
+                  'Muhammad Ameen',
                   style: TextStyle(fontSize: 20),
                 ),
                 SizedBox(height: 10),
                 Text(
-                  'user@example.com',
+                  'khanamen59@example.com',
                   style: TextStyle(fontSize: 18),
                 ),
               ],
