@@ -15,7 +15,7 @@ User Screen is a Flutter application that showcases a user profile screen with v
 
 To get started with the User Screen project, follow these steps:
 1. **Clone the repository:**
-git clone https://github.com/your-username/user-screen.git
+git clone https://github.com/MuhammadAmeen01/User-Screen-in-Flutter.git
 2. **Navigate to the project folder:**
 cd user-screen
 3. **Install the dependencies:**
