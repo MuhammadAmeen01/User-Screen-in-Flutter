@@ -10,6 +10,9 @@ User Screen is a Flutter application that showcases a user profile screen with v
 - Upgrade to Pro button
 - Menu buttons with icons and labels
 - Logout button
+## Screenshots
+
+![User Screen]()
 
 ## Getting Started
 
